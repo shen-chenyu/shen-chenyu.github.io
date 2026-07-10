@@ -23,7 +23,7 @@
 
 Verify GitHub Pages is configured (should already be set):
 
-1. Go to: https://github.com/imichaelen/imichaelen.github.io/settings/pages
+1. Go to: https://github.com/shen-chenyu/shen-chenyu.github.io/settings/pages
 2. Confirm settings:
    - **Source**: Deploy from a branch
    - **Branch**: `master` (or `main`)
@@ -44,26 +44,26 @@ git push origin master
 # 4. Wait 1-2 minutes for GitHub Pages to rebuild
 
 # 5. Visit your site
-open https://imichaelen.github.io
+open https://shen-chenyu.github.io
 ```
 
 ### Verify Deployment
 
 After pushing:
 
-1. **Check main site**: https://imichaelen.github.io
+1. **Check main site**: https://shen-chenyu.github.io
 
    - Verify navigation includes "Demo" link
    - Check footer (should NOT say "Powered by Gridea")
 
-2. **Check demo site**: https://imichaelen.github.io/projects/demo/
+2. **Check demo site**: https://shen-chenyu.github.io/projects/demo/
 
    - Should show "Autonomous Research Workflow" visualization
    - Interactive tree should load and be scrollable
    - Timelines should display
 
 3. **Check GitHub Pages status**:
-   - Go to: https://github.com/imichaelen/imichaelen.github.io/deployments
+   - Go to: https://github.com/shen-chenyu/shen-chenyu.github.io/deployments
    - Look for latest deployment (should show "Active")
 
 ## Troubleshooting
@@ -77,7 +77,7 @@ After pushing:
 ### Changes not appearing
 
 - Wait 2-3 minutes (GitHub Pages needs time to rebuild)
-- Check GitHub Actions: https://github.com/imichaelen/imichaelen.github.io/actions
+- Check GitHub Actions: https://github.com/shen-chenyu/shen-chenyu.github.io/actions
 - Force refresh browser: Cmd+Shift+R (Mac) or Ctrl+Shift+R (Windows)
 
 ### Demo site links broken
@@ -115,5 +115,5 @@ git status
 git diff
 
 # View deployment status
-open https://github.com/imichaelen/imichaelen.github.io/deployments
+open https://github.com/shen-chenyu/shen-chenyu.github.io/deployments
 ```

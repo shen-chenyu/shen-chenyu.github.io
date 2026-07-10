@@ -29,7 +29,7 @@ def load_config(config_path: Path) -> dict[str, Any]:
     config.setdefault("arxiv", {})
     config["arxiv"].setdefault(
         "user_agent",
-        "imichaelen-daily-bot/1.0 (https://github.com/imichaelen/imichaelen.github.io)",
+        "shen-chenyu-daily-bot/1.0 (https://github.com/shen-chenyu/shen-chenyu.github.io)",
     )
     config["arxiv"].setdefault("queries", [])
 
