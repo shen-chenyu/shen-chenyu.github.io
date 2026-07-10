@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom'>
-    <id>https://imichaelen.github.io</id>
+    <id>https://shen-chenyu.github.io</id>
     <title>Michael Shen&apos;s Personal Blog</title>
     <updated>2026-06-20T05:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel='alternate' href='https://imichaelen.github.io'/>
-    <link rel='self' href='https://imichaelen.github.io/atom.xml'/>
+    <link rel='alternate' href='https://shen-chenyu.github.io'/>
+    <link rel='self' href='https://shen-chenyu.github.io/atom.xml'/>
     <subtitle>Cheer for the Biangbiang Noodles and Eiffel Tower!</subtitle>
-    <logo>https://imichaelen.github.io/images/avatar.png</logo>
-    <icon>https://imichaelen.github.io/favicon.ico</icon>
+    <logo>https://shen-chenyu.github.io/images/avatar.png</logo>
+    <icon>https://shen-chenyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Michael Shen&apos;s Personal Blog</rights>
     <entry>
         <title type='html'><![CDATA[Designing Workflows for Unfinished Questions]]></title>
-        <id>https://imichaelen.github.io/post/designing-workflows-for-unfinished-questions/</id>
-        <link href='https://imichaelen.github.io/post/designing-workflows-for-unfinished-questions/'>
+        <id>https://shen-chenyu.github.io/post/designing-workflows-for-unfinished-questions/</id>
+        <link href='https://shen-chenyu.github.io/post/designing-workflows-for-unfinished-questions/'>
         </link>
         <updated>2026-06-20T05:00:00.000Z</updated>
         <content type='html'><![CDATA[<p>A methodological note on AI-assisted research workflows: unfinished questions should be preserved only when they can change the next action and meet resistance.</p>
-<p><img src='https://imichaelen.github.io/post-images/unfinished-question-hero.svg' alt='Schematic for turning an unfinished question into a testable intervention'></p>
-<p><a href='https://imichaelen.github.io/post/designing-workflows-for-unfinished-questions/'>Read the note</a></p>
+<p><img src='https://shen-chenyu.github.io/post-images/unfinished-question-hero.svg' alt='Schematic for turning an unfinished question into a testable intervention'></p>
+<p><a href='https://shen-chenyu.github.io/post/designing-workflows-for-unfinished-questions/'>Read the note</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type='html'><![CDATA[Learning Systems: States, Worlds, and Effective Variational Principles]]></title>
-        <id>https://imichaelen.github.io/post/learning-systems-states-worlds-and-effective-variational-principles/</id>
-        <link href='https://imichaelen.github.io/post/learning-systems-states-worlds-and-effective-variational-principles/'>
+        <id>https://shen-chenyu.github.io/post/learning-systems-states-worlds-and-effective-variational-principles/</id>
+        <link href='https://shen-chenyu.github.io/post/learning-systems-states-worlds-and-effective-variational-principles/'>
         </link>
         <updated>2026-06-18T00:00:00.000Z</updated>
         <content type='html'><![CDATA[<p>A mathematical note on why theories of learning should specify the world, quotient state space, training dynamics, and invariant observables before invoking variational principles.</p>
@@ -32,28 +32,28 @@
     </entry>
     <entry>
         <title type='html'><![CDATA[Git Tutor]]></title>
-        <id>https://imichaelen.github.io/post/git-tutor/</id>
-        <link href='https://imichaelen.github.io/post/git-tutor/'>
+        <id>https://shen-chenyu.github.io/post/git-tutor/</id>
+        <link href='https://shen-chenyu.github.io/post/git-tutor/'>
         </link>
         <updated>2025-12-24T00:00:00.000Z</updated>
         <content type='html'><![CDATA[<p>Practice Git commands in a terminal simulator and watch the commit graph update live.</p>
-<p><a href='https://imichaelen.github.io/projects/git_tutor/'>Open Git Tutor</a></p>
+<p><a href='https://shen-chenyu.github.io/projects/git_tutor/'>Open Git Tutor</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type='html'><![CDATA[Demo]]></title>
-        <id>https://imichaelen.github.io/post/demo/</id>
-        <link href='https://imichaelen.github.io/post/demo/'>
+        <id>https://shen-chenyu.github.io/post/demo/</id>
+        <link href='https://shen-chenyu.github.io/post/demo/'>
         </link>
         <updated>2025-12-07T00:00:00.000Z</updated>
         <content type='html'><![CDATA[<p>Interactive demonstration of an autonomous computational research workflow.</p>
-<p><a href='https://imichaelen.github.io/projects/demo/'>View Workflow Demo</a></p>
+<p><a href='https://shen-chenyu.github.io/projects/demo/'>View Workflow Demo</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type='html'><![CDATA[(Physics Note) Oscillator and Wave]]></title>
-        <id>https://imichaelen.github.io/post/physics-note-oscillator-and-wave/</id>
-        <link href='https://imichaelen.github.io/post/physics-note-oscillator-and-wave/'>
+        <id>https://shen-chenyu.github.io/post/physics-note-oscillator-and-wave/</id>
+        <link href='https://shen-chenyu.github.io/post/physics-note-oscillator-and-wave/'>
         </link>
         <updated>2020-04-27T17:00:03.000Z</updated>
         <content type='html'><![CDATA[<p>A short physics note explaining how the wave equation emerges from coupled oscillators and how normal modes diagonalize collective motion.</p>
@@ -61,8 +61,8 @@
     </entry>
     <entry>
         <title type='html'><![CDATA[Hello World]]></title>
-        <id>https://imichaelen.github.io/post/hello-world/</id>
-        <link href='https://imichaelen.github.io/post/hello-world/'>
+        <id>https://shen-chenyu.github.io/post/hello-world/</id>
+        <link href='https://shen-chenyu.github.io/post/hello-world/'>
         </link>
         <updated>2020-04-16T01:33:09.000Z</updated>
         <content type='html'><![CDATA[<p>It is my new Blog, where I'd like to share a little experiences about my research and some interesting things about my course.</p>

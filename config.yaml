@@ -1,5 +1,5 @@
 arxiv:
-  user_agent: "imichaelen-daily-bot/1.0 (https://github.com/imichaelen/imichaelen.github.io)"
+  user_agent: "shen-chenyu-daily-bot/1.0 (https://github.com/shen-chenyu/shen-chenyu.github.io)"
   queries:
     - name: "Materials & Physics (cond-mat / comp-ph / chem-ph)"
       search_query: "cat:cond-mat.mtrl-sci OR cat:physics.comp-ph OR cat:physics.chem-ph"

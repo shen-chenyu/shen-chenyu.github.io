@@ -1,6 +1,6 @@
 # Michael Shen's Personal Blog
 
-This is a static website hosted on GitHub Pages at [imichaelen.github.io](https://imichaelen.github.io).
+This is a static website hosted on GitHub Pages at [shen-chenyu.github.io](https://shen-chenyu.github.io).
 
 ## Site Structure
 
@@ -116,10 +116,10 @@ Then visit:
 
 This site is automatically deployed via **GitHub Pages** using the following configuration:
 
-- **Repository**: `imichaelen/imichaelen.github.io`
+- **Repository**: `shen-chenyu/shen-chenyu.github.io`
 - **Branch**: `master`
 - **Source**: Root directory (`/`)
-- **URL**: `https://imichaelen.github.io`
+- **URL**: `https://shen-chenyu.github.io`
 
 ### Deployment Process
 
@@ -140,7 +140,7 @@ This site is automatically deployed via **GitHub Pages** using the following con
 
 To confirm your GitHub Pages configuration:
 
-1. Go to `https://github.com/imichaelen/imichaelen.github.io/settings/pages`
+1. Go to `https://github.com/shen-chenyu/shen-chenyu.github.io/settings/pages`
 2. Ensure:
    - **Source**: Deploy from a branch
    - **Branch**: `master` / `(root)`
@@ -267,7 +267,7 @@ Workflow: `.github/workflows/daily.yml` runs daily at **07:00 JST** (`22:00 UTC`
 | Update demo      | Edit files in `/projects/demo/`                             |
 | Preview site     | Run `python3 -m http.server 8000`                           |
 | Deploy           | `git add . && git commit -m "msg" && git push`              |
-| Check deployment | Visit `https://imichaelen.github.io` after 1-2 min          |
+| Check deployment | Visit `https://shen-chenyu.github.io` after 1-2 min          |
 
 ---
 
