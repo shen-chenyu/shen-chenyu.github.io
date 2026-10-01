@@ -378,7 +378,7 @@ def main() -> int:
 
     base_url = config.get("llm", {}).get("base_url", {}).get(provider) or _default_base_url(provider)
     model = config.get("llm", {}).get("model", {}).get(provider) or (
-        "deepseek-chat" if provider == "deepseek" else "gpt-4o-mini"
+        "deepseek-v4-flash" if provider == "deepseek" else "gpt-4o-mini"
     )
     temperature = float(config.get("llm", {}).get("temperature", 0))
 
