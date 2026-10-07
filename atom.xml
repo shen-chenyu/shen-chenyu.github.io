@@ -2,7 +2,7 @@
 <feed xmlns='http://www.w3.org/2005/Atom'>
     <id>https://shen-chenyu.github.io</id>
     <title>Michael Shen&apos;s Personal Blog</title>
-    <updated>2026-06-20T05:00:00.000Z</updated>
+    <updated>2026-10-07T00:00:00+09:00</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel='alternate' href='https://shen-chenyu.github.io'/>
     <link rel='self' href='https://shen-chenyu.github.io/atom.xml'/>
@@ -10,6 +10,30 @@
     <logo>https://shen-chenyu.github.io/images/avatar.png</logo>
     <icon>https://shen-chenyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Michael Shen&apos;s Personal Blog</rights>
+    <entry>
+        <title type='html'><![CDATA[当逻辑变得廉价]]></title>
+        <id>https://shen-chenyu.github.io/post/when-logic-becomes-cheap/</id>
+        <link href='https://shen-chenyu.github.io/post/when-logic-becomes-cheap/' />
+        <published>2026-10-07T00:00:00+09:00</published>
+        <updated>2026-10-07T00:00:00+09:00</updated>
+        <content type='html'><![CDATA[<p>今天是个值得记住的日子。</p>
+                <p>OpenAI 用氢弹轰炸了数学界。一个靠模式学习训练出来的系统，已经能大规模地产生复杂的逻辑链条。这曾经是人类文明里最昂贵的东西之一。</p>
+                <p>我一直倾向于从语言的角度理解人类文明。人类成为高度社会化的动物，语言在这个过程中产生，又被自然选择不断强化。有了语言，一个人的经验才有机会被别人继承，概念和抽象结构才有机会跨过世代，继续积累。</p>
+                <p>混沌的世界没有义务向我们呈现意义。我们用语言给它分类，从中抽象出概念，寻找因果，再把这些认识组织成逻辑。几千年下来，现实中那些难以把握的东西，才逐渐变成可以讨论、理解和传下去的结构。我觉得，文明很大一部分就积累在这里。</p>
+                <p>我仍然不认为现在的大语言模型拥有真正意义上的意识。在我看来，它从语言中学到的概率模式，与人类在现实中感受和行动的经历，仍然有本质的不同。但我越来越怀疑：有没有意识，对眼下将要发生的变化，真的有那么重要吗？</p>
+                <p>即便没有意识，只要它能调用远超个人的记忆，持续产生越来越长、越来越复杂，甚至能被形式化验证的逻辑链条，就已经碰到了过去极其稀缺的一种能力。</p>
+                <p>过去，为了提出一条可靠的新逻辑链条，一个人可能要接受十几年，甚至几十年的训练。大学、教授、博士、论文、同行评议，我们用一整套制度培养这样的人，也判断谁有能力产生可靠的知识。现在，这种能力开始变得廉价了。</p>
+                <p>想到这里，我很难只把今天的事当成一次技术进步。学术体系中许多我们习以为常的安排，都建立在知识、记忆和逻辑能力难以获得的前提上。如果这个前提松动了，后面的制度也很难原封不动地留在那里。</p>
+                <p>记住文献、组合已有的逻辑，乃至生成复杂的理论假说和证明，成本都在下降。我们当然还需要知识，但一个等着被检验的想法，可能很快就不值钱了。难的是判断它到底对不对，以及它值不值得我们花时间。</p>
+                <p>往后，什么问题值得提出，什么结论值得相信，实验该怎么做，又该从哪里获得语言里还没有的信息，这些事恐怕会占据研究者更多的精力。尤其是最后一点：如果我们只是在已有的语言里不断重组，新的认识究竟从哪里来？</p>
+                <p>我现在反而更能理解 LeCun 对大语言模型这条路线的怀疑。语言可以让我们走得很远，但要让一个智能体真正理解现实世界，还得让它去感知、去行动，去面对自己的判断出错之后会发生什么。</p>
+                <p>可这并没有让我更安心。</p>
+                <p>也许大语言模型确实不是 AI 的终点。但一项还没走到终点的技术，已经可能先改变我们生产知识、培养人才和组织研究的方式。大学和研究机构需要时间调整，一个人在其中接受训练、找到自己的位置，更需要时间。技术却不会等这些事都安排好再往前走。</p>
+                <p>语言当然还会发展。我只是开始觉得，语言内部的智能，也许不再是文明最难推进的那一部分了。记忆和逻辑逐渐成为基础设施以后，难题会更多地留在感知、行动、因果和实验里，留在那个真实而顽固的物理世界里。</p>
+                <p>我现在最担心的是，社会变化得这么快，我们有没有足够的时间，也有没有还能支撑长期研究的制度，在旧的知识体系被冲击之后，继续走到真正理解物理世界的人工智能那里？</p>
+                <p>希望我们还有时间。</p>
+]]></content>
+    </entry>
     <entry>
         <title type='html'><![CDATA[Designing Workflows for Unfinished Questions]]></title>
         <id>https://shen-chenyu.github.io/post/designing-workflows-for-unfinished-questions/</id>
