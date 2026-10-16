@@ -53,7 +53,7 @@ def load_config(config_path: Path) -> dict[str, Any]:
     config["llm"].setdefault("enabled", True)
     config["llm"].setdefault("provider_preference", ["deepseek", "openai"])
     config["llm"].setdefault(
-        "model", {"deepseek": "deepseek-chat", "openai": "gpt-4o-mini"}
+        "model", {"deepseek": "deepseek-v4-flash", "openai": "gpt-4o-mini"}
     )
     config["llm"].setdefault("max_items", 10)
     config["llm"].setdefault("trend_enabled", True)
