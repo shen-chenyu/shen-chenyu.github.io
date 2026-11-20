@@ -39,7 +39,7 @@ llm:
   enabled: true
   provider_preference: ["deepseek", "openai"]
   model:
-    deepseek: "deepseek-chat"
+    deepseek: "deepseek-v4-flash"
     openai: "gpt-4o-mini"
   max_items: 50
   trend_enabled: true
